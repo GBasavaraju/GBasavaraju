@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ganavi Basavaraju
 - 👀 I’m interested in Machine Learning, Computer Vision and its applications.
 - 🌱 I’m currently learning Image processing, High Level Computer Vision and about Neural Networks.
+- Working on: Brain Computer Interface: Training a model to understand and classify Cognitive Load and transfer the control to autonomous vehicle.
 - 📫 Reach me on gaba00002@stud.uni-saarland.de
 
 <!---
