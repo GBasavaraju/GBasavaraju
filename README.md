@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ganavi Basavaraju
-- 👀 I’m interested in Machine Learning, Computer Vision and its applications.
-- 🌱 I’m currently learning Image processing, High Level Computer Vision and Neural Networks.
+- 👀 I’m interested in Machine Learning, AI and its applications.
 - 📫 Reach me on gaba00002[at]stud[dot]uni[hyphen]saarland[dot]de
 
 <!---
