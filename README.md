@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ganavi Basavaraju
+- 👋 Hi, I’m GBasavaraju
 - 👀 I’m interested in Machine Learning, AI and its applications.
 - 📫 Reach me on gaba00002[at]stud[dot]uni[hyphen]saarland[dot]de
 
