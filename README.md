@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GBasavaraju
-- 👀 I’m interested in Machine Learning, AI and its applications.
+- 👀 I’m interested in building Cloud and Machine Learning applications.
 - 📫 Reach me on gaba00002[at]stud[dot]uni[hyphen]saarland[dot]de
 
 <!---
